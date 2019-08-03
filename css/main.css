@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+display:grid;
+grid-template-columns: 10% 1fr 1fr 10%;
+min-height: 10vh;
+align-items: center;
+
+}
